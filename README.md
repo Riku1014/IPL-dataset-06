@@ -9,11 +9,8 @@
 
 
 
-# SUBMITTED BY
-# 1.RISHABH SEN
-# 2.SHIKHAR BHARDWAJ
-# 3.AMIT SINGH SURYWANSHI
-Important insights from the IPL 2023 dashboard
+
+Important insights from the IPL  dashboard
 Analyzing tournament data is crucial to gaining insights that can guide strategic decision-making for teams. With data analysis, we can unearth a range of data insights, from team-level and individual player performances to examining trends in viewership, revenue, and the overall health of the competition. These insights can be useful to coaches and players alike, helping them refine their tactics and improve their performances.
 
 In the following section, we'll go over some of the important data insights from our dashboard for IPL 2023 that can be useful for cricket fans when it comes to analyzing the tournament.
@@ -44,5 +41,11 @@ predicted using MYSQL For easy access and usage of the outcome.
 # OBJECTIVEAND SCOPE
 To predict the outcome of an IPL match.It also aims to analyse and visualize data using
 various data visualisation techniques for better understanding.
+
+## Power BI Dashboard
+
+To visualize and analyze the insights generated from the IPL Database, we have created a Power BI dashboard. This dashboard incorporates key metrics and visualizations derived from the data stored in the database.
+
+
 
 
