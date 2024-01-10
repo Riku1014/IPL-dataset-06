@@ -54,6 +54,7 @@ To visualize and analyze the insights generated from the IPL Database, we have c
 - <a href="https://github.com/Riku1014"> Rishab Sen</a>
 - <a href="https://github.com/Shikharrbhardwajj"> Shikhar Bhardwaj</a>
 - <a href="https://github.com/AMITKUMARSINGH100"> Amit Singh Suryanshi</a>
+- <a href="https://github.com/Prapti2111"> Prapti shah</a>
 
 
 
