@@ -46,6 +46,12 @@ various data visualisation techniques for better understanding.
 
 To visualize and analyze the insights generated from the IPL Database, we have created a Power BI dashboard. This dashboard incorporates key metrics and visualizations derived from the data stored in the database.
 
+## Contributors
+- <a href="https://github.com/Riku1014"> Rishab Sen</a>
+- <a href="https://github.com/Rohit734"> Rohit Pradhan</a>
+- <a href="https://github.com/AMITKUMARSINGH100"> Amit Singh Suryanshi</a>
+
+
 
 
 
