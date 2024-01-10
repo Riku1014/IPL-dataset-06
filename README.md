@@ -1,6 +1,12 @@
 # IPL-DATA-ANALYSIS
 ![DSV](https://github.com/Riku1014/IPL-dataset-06/assets/151837914/e55cea9f-5509-4c95-9774-2e213a9fafd8)
 
+![DDSSCC](https://github.com/Riku1014/IPL-dataset-06/assets/151837914/3de56455-b6a4-406c-a771-fce14aac3e3a) 
+
+![DDSS](https://github.com/Riku1014/IPL-dataset-06/assets/151837914/c9c7dcfb-08e8-488d-9e75-f5990393e8b4)
+
+
+
 
 
 # SUBMITTED BY
